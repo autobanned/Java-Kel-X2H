@@ -19,10 +19,10 @@ public class KasirPuskesmas{
             int h1 = 8000, h2 = 12000, h3 = 15000, h4 = 8000, h5 = 2000, h6 = 15000, h7 = 10000, h8 = 20000 ;
             int admin = 3000;
             String tujuan;
-            System.out.println(" _____________________________________________");
+            System.out.println(" ____________________");
             System.out.println("| Metode Pembayaran |");
             System.out.println("|___________________|");
-            System.out.println("|1. Mandiri         |");
+            System.out.println("|1. Bayar Mandiri   |");
             System.out.println("|2. BPJS            |");
             System.out.println("|___________________|");
             System.out.println("");
