@@ -1,2 +1,2 @@
 # Java-Kel-X2H
-Tugas Ahir Smester Kelompok 7 - Pemrograman 2 (Java)
+Tugas Kelompok Akhir Semester2 - Pemrograman (Java)
