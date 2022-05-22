@@ -1,8 +1,8 @@
-/* Tugas Ahir Kelompok 7 Pemrograman 2
-*  Dibuat oleh Kel.11 X2H: Zefri.Andy 
+/******************************* Tugas Ahir Kelompok 7 Pemrograman 2
+*  Dibuat oleh Kel.7 X2H:
 *  Copyright X2H-Unindra 2021 
 *  This program is free software; you can redistribute it and/or modify
-*/ 
+***********************************************************************/ 
 import java.io.*;
 import javax.swing.*;
 import java.util.Scanner;
