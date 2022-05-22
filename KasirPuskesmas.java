@@ -1,13 +1,12 @@
-/******************************************************************************
-
-                            Online Java Debugger.
-                Code, Run and Debug Java program online.
-Write your code in this editor and press "Debug" button to debug program.
-
-*******************************************************************************/
+/* Tugas Ahir Kelompok 7 Pemrograman 2
+*  Dibuat oleh Kel.11 X2H: Zefri.Andy 
+*  Copyright X2H-Unindra 2021 
+*  This program is free software; you can redistribute it and/or modify
+*/ 
 import java.io.*;
 import javax.swing.*;
 import java.util.Scanner;
+
 
 public class KalkulatorPuskesmas
         {
