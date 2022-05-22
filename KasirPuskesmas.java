@@ -1,28 +1,30 @@
-/* Tugas Ahir Kelompok 7 Pemrograman 2
-*  Dibuat oleh Kel.11 X2H: Zefri.Andy 
-*  Copyright X2H-Unindra 2021 
-*  This program is free software; you can redistribute it and/or modify
-*/ 
+/******************************************************************************
+
+                            Online Java Debugger.
+                Code, Run and Debug Java program online.
+Write your code in this editor and press "Debug" button to debug program.
+
+*******************************************************************************/
 import java.io.*;
 import javax.swing.*;
 import java.util.Scanner;
 
-
-
-public class KasirPuskesmas{ 
-    public static void main (String[]args) 
-        throws Exception {
+public class KalkulatorPuskesmas
+        {
+    public static void main(String[] args) 
+        throws Exception 
+        {
             Scanner scan = new Scanner(System.in);
-            Scanner opt = new Scanner(System.in);
+           /* Scanner opt = new Scanner(System.in); */
             
             int harga = 0;
             int h1 = 8000, h2 = 12000, h3 = 15000, h4 = 8000, h5 = 2000, h6 = 15000, h7 = 10000, h8 = 20000 ;
             int admin = 3000;
             String tujuan;
-            System.out.println(" ____________________");
+            System.out.println(" _____________________________________________");
             System.out.println("| Metode Pembayaran |");
             System.out.println("|___________________|");
-            System.out.println("|1. Bayar Mandiri   |");
+            System.out.println("|1. Mandiri         |");
             System.out.println("|2. BPJS            |");
             System.out.println("|___________________|");
             System.out.println("");
@@ -44,6 +46,7 @@ public class KasirPuskesmas{
             System.out.println("|8. Konseling       |   Rp 20000,00       |");
             System.out.println("|___________________|_____________________|");
             System.out.println("");
+            
             
 
             for (String i = "T"; i.equals("T")||i.equals("t"); ) {
@@ -185,7 +188,7 @@ public class KasirPuskesmas{
         break;
         default:
             System.out.println("Maaf, nomor yang dimasukan tidak sesuai");
+        break;
     }
     }
-    
 }
